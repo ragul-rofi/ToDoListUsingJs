@@ -1,0 +1,16 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node todo.js"
+  },
+  "keywords": [],
+  "author": "Ragul",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "type" : "module"
+}
